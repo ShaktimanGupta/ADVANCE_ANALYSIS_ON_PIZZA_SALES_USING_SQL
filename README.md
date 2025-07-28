@@ -21,9 +21,6 @@ This project demonstrates the use of **advanced SQL techniques** for data analys
 - Video demonstration (`.mp4`)
 - Dataset (`.csv`) [optional]
 
-## 🎥 Project Demo
-A full walkthrough of the project is available here:  
-👉 [Upload video to YouTube or GitHub and paste the link]
 
 ## 📈 Key Learnings
 - Writing clean and efficient SQL code
