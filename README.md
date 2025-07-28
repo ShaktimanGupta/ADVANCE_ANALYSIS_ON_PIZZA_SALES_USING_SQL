@@ -18,7 +18,7 @@ This project demonstrates the use of **advanced SQL techniques** for data analys
 
 ## 📂 Files Included
 - SQL scripts (`.sql`)
-- Dataset (`.csv`) [optional]
+- Dataset (`.csv`)
 
 
 ## 📈 Key Learnings
