@@ -18,7 +18,6 @@ This project demonstrates the use of **advanced SQL techniques** for data analys
 
 ## 📂 Files Included
 - SQL scripts (`.sql`)
-- Video demonstration (`.mp4`)
 - Dataset (`.csv`) [optional]
 
 
